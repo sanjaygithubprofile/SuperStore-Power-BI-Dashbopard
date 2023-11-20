@@ -1,6 +1,7 @@
 # SuperStore-Sales- Analysis
 This visualization using Power BI tool helps to comapre sales, profit, order and Average days of transportation for 2019 and 2020 year.
 The Major KPI's are :- 1. overall sales, total profit, total quantity and Average Ship Days. (Using Cards)
+
 2. The sales by COD i.e 42.62% is more than other payment mode
 (Using Donut Chart)
 
