@@ -1,5 +1,4 @@
-![Super Store Sales Analysis_page-0002](https://github.com/sanjaygithubprofile/SuperStore-Sales-Power-BI-Project/assets/151513717/d816d463-c5ab-4956-8292-e788755844cf)
-![Super Store Sales Analysis_page-0001](https://github.com/sanjaygithubprofile/SuperStore-Sales-Power-BI-Project/assets/151513717/92ea02f5-a8f3-4009-9718-4e7a9fb1c96d)
+
 # SuperStore-Sales- Analysis
 This visualization using Power BI tool helps to comapre sales, profit, order and Average days of transportation for 2019 and 2020 year.
 The Major KPI's are :- 1. overall sales, total profit, total quantity and Average Ship Days. (Using Cards)
@@ -18,3 +17,6 @@ The Major KPI's are :- 1. overall sales, total profit, total quantity and Averag
 7. The profit brought by Technology and office supply is more than Furniture it is close to 10K, so we need to look for a way to increase the profits brought in by Furniture. (Using Clustered Bar Chart)
 
 8. In 2020, achieved higher profits and increased product sales.(Using Line Chart)
+![Super Store Sales Analysis_page-0001](https://github.com/sanjaygithubprofile/SuperStore-Sales-Power-BI-Project/assets/151513717/da9d54de-0388-4910-aabb-e20e63102a3e)
+![Super Store Sales Analysis_page-0002](https://github.com/sanjaygithubprofile/SuperStore-Sales-Power-BI-Project/assets/151513717/ef78fa2a-dde8-431e-8d31-a36f1efb32f5)
+
