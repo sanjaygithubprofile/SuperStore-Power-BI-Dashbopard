@@ -1,3 +1,5 @@
+![Super Store Sales Analysis_page-0002](https://github.com/sanjaygithubprofile/SuperStore-Sales-Power-BI-Project/assets/151513717/d816d463-c5ab-4956-8292-e788755844cf)
+![Super Store Sales Analysis_page-0001](https://github.com/sanjaygithubprofile/SuperStore-Sales-Power-BI-Project/assets/151513717/92ea02f5-a8f3-4009-9718-4e7a9fb1c96d)
 # SuperStore-Sales- Analysis
 This visualization using Power BI tool helps to comapre sales, profit, order and Average days of transportation for 2019 and 2020 year.
 The Major KPI's are :- 1. overall sales, total profit, total quantity and Average Ship Days. (Using Cards)
